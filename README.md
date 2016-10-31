@@ -11,4 +11,6 @@
 * __Ruban de möbius__.  
   Faire 3 rubans et les découper dans la longueur.  
   Montrer le dessin d'Escher avec les fourmis.
+* __Aiguille de Kakeya__.
+
 
