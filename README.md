@@ -1,6 +1,9 @@
 # ludo-maths
 ## Quelques idées pour les présentations
 
+* __Triangles__
+  * __Thales__. Par les triangles semblables.
+  * __Pythagore__. Plusieurs démonstrations.
 * __Technique de l'arpenteur et formule de Stokes__.  
   Calculer la surface délimitée par une courbe.  
   `\int XY'`  
