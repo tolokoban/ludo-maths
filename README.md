@@ -13,8 +13,9 @@
   Montrer le dessin d'Escher avec les fourmis.
 * __Aiguille de Kakeya__.
 * __Théorie du chaos__.  
-  Le billard. Rebonds à l'interieur d'une courbe quelconque (par exemple une ellipse).
-  
+  Le billard. Rebonds à l'interieur d'une courbe quelconque (par exemple une ellipse).  
+  Portrait de phase
+* __Crytologie__.
   
 
 
