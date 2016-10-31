@@ -21,6 +21,9 @@
 * __La perceuse à trous carrés__.
 * __Fractales__.  
   Courbes à surface non nulle. Peano.
+* __Théorie des graphes__.  
+  Ponts de Königsburg.  
+  Traversées : loup/chèvre/choux, maris jaloux, ...
   
   
 
