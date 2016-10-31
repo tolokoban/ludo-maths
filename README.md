@@ -16,6 +16,8 @@
   Le billard. Rebonds à l'interieur d'une courbe quelconque (par exemple une ellipse).  
   Portrait de phase
 * __Crytologie__.
+* __Aires et volumes__.  
+  Théorème d'Archimède sur la surface d'une sphère et de son cylindre englobant.
   
 
 
