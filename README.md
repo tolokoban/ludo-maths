@@ -12,5 +12,9 @@
   Faire 3 rubans et les découper dans la longueur.  
   Montrer le dessin d'Escher avec les fourmis.
 * __Aiguille de Kakeya__.
+* __Théorie du chaos__.  
+  Le billard. Rebonds à l'interieur d'une courbe quelconque (par exemple une ellipse).
+  
+  
 
 
