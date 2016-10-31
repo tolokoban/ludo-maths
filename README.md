@@ -19,7 +19,7 @@
 * __Aires et volumes__.  
   Théorème d'Archimède sur la surface d'une sphère et de son cylindre englobant.
 * __La perceuse à trous carrés__.
-
+* __Courbes à surface non nulle__. Peano.
 
 
 
