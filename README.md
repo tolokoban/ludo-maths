@@ -25,8 +25,9 @@
   Ponts de Königsburg.  
   Traversées : loup/chèvre/choux, maris jaloux, ...
 * __Illusions d'optique__.  
-  [https://divisbyzero.com/2016/10/02/two-more-impossible-cylinders/]
-  
+  https://divisbyzero.com/2016/10/02/two-more-impossible-cylinders/
+* __Cut the cake__.  
+  Comment couper une tarte en `n` parties égales.
   
   
 
