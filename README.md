@@ -24,6 +24,9 @@
 * __Théorie des graphes__.  
   Ponts de Königsburg.  
   Traversées : loup/chèvre/choux, maris jaloux, ...
+* __Illusions d'optique__.  
+  [https://divisbyzero.com/2016/10/02/two-more-impossible-cylinders/]
+  
   
   
 
