@@ -3,7 +3,8 @@
 
 * __Triangles__
   * __Thales__. Par les triangles semblables.
-  * __Pythagore__. Plusieurs démonstrations.
+  * __Pythagore__. Plusieurs démonstrations.  
+    Triplets pythagoriciens par différence des carrés.
 * __Technique de l'arpenteur et formule de Stokes__.  
   Calculer la surface délimitée par une courbe.  
   `\int XY'`  
